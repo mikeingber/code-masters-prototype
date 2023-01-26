@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/code-masters-prototype/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/code-masters-prototype/static/js/main.07218f40.chunk.js",
+    "main.js.map": "/code-masters-prototype/static/js/main.07218f40.chunk.js.map",
+    "runtime-main.js": "/code-masters-prototype/static/js/runtime-main.0d869d83.js",
+    "runtime-main.js.map": "/code-masters-prototype/static/js/runtime-main.0d869d83.js.map",
+    "static/js/2.e4743e6f.chunk.js": "/code-masters-prototype/static/js/2.e4743e6f.chunk.js",
+    "static/js/2.e4743e6f.chunk.js.map": "/code-masters-prototype/static/js/2.e4743e6f.chunk.js.map",
+    "static/js/3.50d9d677.chunk.js": "/code-masters-prototype/static/js/3.50d9d677.chunk.js",
+    "static/js/3.50d9d677.chunk.js.map": "/code-masters-prototype/static/js/3.50d9d677.chunk.js.map",
+    "index.html": "/code-masters-prototype/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/code-masters-prototype/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e4743e6f.chunk.js.LICENSE.txt": "/code-masters-prototype/static/js/2.e4743e6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d869d83.js",
+    "static/js/2.e4743e6f.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.07218f40.chunk.js"
+  ]
+}
